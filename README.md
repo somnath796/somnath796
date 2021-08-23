@@ -12,7 +12,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=somnath796&theme=tokyonight" alt="mystreak"/>
 ![somnath796's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somnath796&theme=tokyonight&layout=compact)
 
-🌱 I’m currently working on Visual Transformers!!
+🌱 I’m currently working on Visual Transformers!
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
