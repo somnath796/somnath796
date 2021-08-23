@@ -28,7 +28,7 @@
   </a>
     
   <a href="mailto:somnathchatterjee796@gmail.com?subject=Contacting%20Using%20Github">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="somnath796's mail" height="30" width="30">  
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"  alt="somnath796's mail" height="30" width="30">  
   </a>
 
 </p>
