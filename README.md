@@ -18,16 +18,16 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-somnathchatterjee796@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:somnathchatterjee796@gmail.com)](somnathchatterjee796@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/_somnath_796/)](https://www.instagram.com/_somnath_796/)
+[![Instagram Badge](https://img.shields.io/badge/-_somnath_796-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/_somnath_796/)](https://www.instagram.com/_somnath_796/)
 
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"Somnath Chatterjee"</a></h2>
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
 Credit: [AkuraDiary](https://github.com/AkuraDiary)
 
-Last Edited on: 21/08/2021
+Last Edited on: 23/08/2021
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
